@@ -1,0 +1,13 @@
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\StrLib.dll
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\bin\Debug\netcoreapp2.1\StrLib.pdb
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.fsprojAssemblyReference.cache
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.fs
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.fsproj.CopyComplete
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\App\obj\Debug\netcoreapp2.1\App.pdb

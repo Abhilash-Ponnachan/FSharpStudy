@@ -1,0 +1,8 @@
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\bin\Debug\netstandard2.0\StrLib.deps.json
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\bin\Debug\netstandard2.0\StrLib.dll
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\bin\Debug\netstandard2.0\StrLib.pdb
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\obj\Debug\netstandard2.0\StrLib.fsprojAssemblyReference.cache
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\obj\Debug\netstandard2.0\StrLib.AssemblyInfoInputs.cache
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\obj\Debug\netstandard2.0\StrLib.AssemblyInfo.fs
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\obj\Debug\netstandard2.0\StrLib.dll
+C:\Users\X217133\Local_Technical\FSharp\Basics\src\StrLib\obj\Debug\netstandard2.0\StrLib.pdb
